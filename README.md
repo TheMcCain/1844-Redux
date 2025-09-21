@@ -1,2 +1,2 @@
-# Virginia-Throwdown
+# 1844 Redux
 tct mod
